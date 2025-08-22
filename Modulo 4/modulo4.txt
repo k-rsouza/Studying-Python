@@ -1,0 +1,4 @@
+O módulo 4 foi desenvolvido em um repositorio separado por questões de organização e
+complexidade.
+
+Url do repositorio referente aos estudos do módulo 4: https://github.com/k-rsouza/simple-flask-auth
